@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    text-align: center;
+    margin: auto;
+}
+.game{
+    color: white;
+    width: 255px;
+    text-align: center;
+    font-weight: 500px;
+    margin: auto;
+}
+.head{
+    padding: 5px 0;
+    margin: 5px 0 ;
+    background-color: blueviolet;
+}
+.head span{
+color: chartreuse;
+font-weight: bold;
+}
+.templetes{
+    background-color: aqua;
+    float: left;
+    width: 80px;
+    height: 80px;
+    margin: 2px;
+    font-size: 50px;
+    color: black;
+    
+}
+.templetes:hover{
+    background-color: chartreuse;
+    cursor: pointer;
+}
